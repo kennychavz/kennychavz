@@ -1,6 +1,6 @@
 # Kennychavz
 
-**'Back-End Developer with Interests in Algorithmic Trading'**
+**`Back-End Developer with Interests in Algorithmic Trading`**
 
 I am a software developer studying computer science in Montreal, Canada. Outside
 of school, I develop algorithmic trading software for foreign exchange currency and
