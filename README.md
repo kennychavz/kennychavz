@@ -3,8 +3,8 @@
 **`Back-End Developer with Interests in Algorithmic Trading`**
 
 I am a software developer studying computer science in Montreal, Canada. Outside
-of school, I develop algorithmic trading software for foreign exchange currency and
-crypto trading.
+of school, I develop algorithmic trading software for equities, fixed income, foreign exchange currencies and
+cryptocurrencies.
 
 ### 🧰 Languages and Tools
 
