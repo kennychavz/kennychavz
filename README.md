@@ -4,7 +4,7 @@
 
 I am an Ex-Quant and AI Researcher who moved from Montreal to San Francisco to build at the intersection of **High-Frequency Trading** and **Agentic AI**. I specialize in reverse-engineering market data feeds, building decentralized vaults, and creating self-evolving agent architectures.
 
-Previously worked at **Thirdlayer (YC W25)** on agentic memory and turned down a $400k offer to build my own vision.
+Previously worked at **Thirdlayer (YC W25)** on agentic memory and turned down a $400k offer from another yc backed company to build my own vision.
 
 ### 🔭 Current Focus
 * **Raven:** Building the "Bloomberg for Prediction Markets." A decentralized copy-trading vault for Polymarket using ERC4626 (Solidity/React/FastAPI).
